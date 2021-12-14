@@ -18,7 +18,13 @@
 
 [CT论坛](https://groups.google.com/g/certificate-transparency)
 
+[谷歌安全日志](https://security.googleblog.com/)
+
+[Mozilla Bugzilla](https://bugzilla.mozilla.org/home)
+
 [SSL/TLS and PKI History](https://www.feistyduck.com/ssl-tls-and-pki-history/)
+
+
 
 ### 联系我们
 
